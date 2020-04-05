@@ -1,0 +1,89 @@
+- Security
+
+Threat Intelligence Feeds                       -> enable
+Google Safe Browsing                            -> enable
+Cryptojacking Protection                        -> enable
+DNS Rebinding Protection                        -> enable
+IDN Homograph Attacks Protection                -> enable
+Typosquatting Protection                        -> enable
+Domain Generation Algorithms (DGAs) Protection  -> enable
+Block Newly Registered Domains (NRDs)           -> enable
+Block Parked Domains                            -> enable
+Block Child Sexual Abuse Material (CSAM)        -> enable
+
+- TLD
+live
+tk
+gq
+ga
+buzz
+cf
+loan
+ml
+fit
+top
+
+accountant
+agency
+asia
+best
+bid
+biz
+cam
+casa
+center
+click
+date
+email
+exposed
+fail
+gdn
+golf
+icu
+life
+ltda
+nagoya
+nf
+okinawa
+ooo
+pk
+pn
+press
+pw
+recipes
+rest
+rodeo
+ryukyu
+style
+su
+surf
+ug
+vip
+wang
+webcam
+work
+world
+
+МОСКВА
+机构
+
+- Privacy
+
+- Blocklists:
+NextDNS Recommended Ads & Trackers Blocklist
+Steven Black
+AdGuard Simplified Domain Names filter
+notracking
+dbl.oisd.nl
+
+Block Disguised Third-Party Trackers              -> enable
+
+- Parental Control
+Block Bypass Methods                              -> enable
+
+- Whitelist
+amazon-adsystem.com (for amazon app)
+
+- Setting
+Block Page                                        -> enable
+EDNS Client Subnet                                -> disable
