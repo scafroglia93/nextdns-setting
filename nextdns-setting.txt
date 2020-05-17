@@ -29,12 +29,15 @@ asia
 best
 bid
 biz
+bj
 cam
 casa
 center
 click
+cricket
 date
 email
+et
 exposed
 fail
 gdn
@@ -42,6 +45,7 @@ golf
 icu
 life
 ltda
+men
 nagoya
 nf
 okinawa
@@ -73,6 +77,7 @@ world
 NextDNS Recommended Ads & Trackers Blocklist
 Steven Black
 AdGuard Simplified Domain Names filter
+Anudeep's Blacklist
 notracking
 dbl.oisd.nl
 
