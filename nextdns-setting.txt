@@ -1,15 +1,14 @@
 - Security
-
-Threat Intelligence Feeds                       -> enable
-Google Safe Browsing                            -> enable
-Cryptojacking Protection                        -> enable
-DNS Rebinding Protection                        -> enable
-IDN Homograph Attacks Protection                -> enable
-Typosquatting Protection                        -> enable
-Domain Generation Algorithms (DGAs) Protection  -> enable
-Block Newly Registered Domains (NRDs)           -> enable
-Block Parked Domains                            -> enable
-Block Child Sexual Abuse Material (CSAM)        -> enable
+Threat Intelligence Feeds -> enable
+Google Safe Browsing -> enable
+Cryptojacking Protection -> enable
+DNS Rebinding Protection -> enable
+IDN Homograph Attacks Protection -> enable
+Typosquatting Protection -> enable
+Domain Generation Algorithms (DGAs) Protection -> enable
+Block Newly Registered Domains (NRDs) -> enable
+Block Parked Domains -> enable
+Block Child Sexual Abuse Material (CSAM) -> enable
 
 - TLD
 live
@@ -22,7 +21,6 @@ loan
 ml
 fit
 top
-
 accountant
 agency
 asia
@@ -34,12 +32,14 @@ cam
 casa
 center
 click
+club
 cricket
 date
 email
 et
 exposed
 fail
+fun
 gdn
 golf
 icu
@@ -58,6 +58,7 @@ recipes
 rest
 rodeo
 ryukyu
+space
 style
 su
 surf
@@ -67,7 +68,6 @@ wang
 webcam
 work
 world
-
 МОСКВА
 机构
 
@@ -81,14 +81,19 @@ Anudeep's Blacklist
 notracking
 dbl.oisd.nl
 
-Block Disguised Third-Party Trackers              -> enable
+Block Disguised Third-Party Trackers -> Enable
 
 - Parental Control
-Block Bypass Methods                              -> enable
+Block Bypass Methods -> Enable
 
 - Whitelist
 amazon-adsystem.com (for amazon app)
 
 - Setting
-Block Page                                        -> enable
-EDNS Client Subnet                                -> disable
+Logs -> Only Domains
+Retention -> 1 Month
+Storage Location -> Switzerland
+Block Page -> Enable
+EDNS Client Subnet -> Disable
+Cache Boost -> Enable
+Handshake -> Enable
