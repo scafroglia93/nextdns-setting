@@ -84,7 +84,7 @@ dbl.oisd.nl
 Block Disguised Third-Party Trackers -> Enable
 
 - Parental Control
-Block Bypass Methods -> Enable
+Block Bypass Methods -> Disable
 
 - Whitelist
 amazon-adsystem.com (for amazon app)
