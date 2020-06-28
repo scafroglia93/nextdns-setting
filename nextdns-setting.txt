@@ -21,14 +21,18 @@ loan
 ml
 fit
 top
+
 accountant
 agency
 asia
-auction 
+auction
 best
 bid
+bike
 biz
 bj
+bs
+bz
 cam
 casa
 center
@@ -36,46 +40,71 @@ click
 club
 cricket
 date
+desi
+download
 email
 et
 exposed
 fail
+faith
 fun
 gdn
 golf
-host 
+host
 icu
+kim
+krd
 life
+london
 ltda
 men
 nagoya
 nf
 okinawa
 ooo
+ph
 pk
 pn
 press
 promo
 pw
+racing
 recipes
+rehab
 rest
+review
 rodeo
+run
 ryukyu
+science
+services
+sm
+so
 space
+srl
+stream
 style
 su
+support
 surf
+sx
 tf
+tokyo
 trade
 ug
+uno
 vip
 wang
 webcam
+website
+wf
 win
 work
 world
 МОСКВА
 机构
+рф
+世界
 xyz
 
 - Privacy
@@ -93,7 +122,7 @@ Block Disguised Third-Party Trackers -> Enable
 - Parental Control
 Block Bypass Methods -> Disable
 
-- Whitelist
+- Allowlist
 amazon-adsystem.com (for amazon app)
 
 - Setting
