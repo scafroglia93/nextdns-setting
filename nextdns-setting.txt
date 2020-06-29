@@ -127,7 +127,7 @@ amazon-adsystem.com (for amazon app)
 
 - Setting
 Logs -> Only Domains
-Retention -> 1 Month
+Retention -> 1 Week
 Storage Location -> Switzerland
 Block Page -> Enable
 EDNS Client Subnet -> Disable
