@@ -115,7 +115,11 @@ Steven Black
 AdGuard Simplified Domain Names filter
 Anudeep's Blacklist
 notracking
-dbl.oisd.nl
+Peter Lowe
+oisd
+someonewhocares.org (Dan Pollock)
+MVPS HOSTS
+NoTrack Tracker Blocklist
 
 Block Disguised Third-Party Trackers -> Enable
 
