@@ -1,133 +1,87 @@
 - Security
-Threat Intelligence Feeds -> enable
-Google Safe Browsing -> enable
-Cryptojacking Protection -> enable
-DNS Rebinding Protection -> enable
-IDN Homograph Attacks Protection -> enable
-Typosquatting Protection -> enable
-Domain Generation Algorithms (DGAs) Protection -> enable
-Block Newly Registered Domains (NRDs) -> enable
-Block Parked Domains -> enable
-Block Child Sexual Abuse Material (CSAM) -> enable
+Threat Intelligence Feeds -> Enable
+Google Safe Browsing -> Enable
+Cryptojacking Protection -> Enable
+DNS Rebinding Protection -> Enable
+IDN Homograph Attacks Protection -> Enable
+Typosquatting Protection -> Enable
+Domain Generation Algorithms (DGAs) Protection -> Enable
+Block Newly Registered Domains (NRDs) -> Enable
+Block Parked Domains -> Enable
+Block Child Sexual Abuse Material (CSAM) -> Enable
+
 
 - TLD
-live
-tk
-gq
-ga
-buzz
-cf
-loan
-ml
-fit
-top
-
 accountant
-agency
 asia
-auction
 best
 bid
-bike
 biz
-bj
-bs
-bz
-cam
+buzz
 casa
-center
-click
-club
+cf
 cricket
 date
-desi
 download
 email
 et
-exposed
 fail
-faith
-fun
+fit
+ga
 gdn
-golf
+gq
 host
 icu
-kim
-krd
 life
+live
+loan
 london
 ltda
 men
-nagoya
+ml
+monster
 nf
-okinawa
-ooo
-ph
-pk
-pn
-press
-promo
 pw
-racing
 recipes
-rehab
 rest
 review
-rodeo
 run
-ryukyu
-science
-services
-sm
-so
-space
-srl
-stream
-style
 su
 support
-surf
-sx
 tf
-tokyo
+tk
+top
 trade
 ug
-uno
 vip
 wang
 webcam
-website
-wf
-win
 work
-world
-МОСКВА
-机构
-рф
-世界
 xyz
+
 
 - Privacy
 
 - Blocklists:
-NextDNS Recommended Ads & Trackers Blocklist
-Steven Black
-AdGuard Simplified Domain Names filter
+AdGuard DNS filter
 Anudeep's Blacklist
-notracking
-Peter Lowe
-oisd
-someonewhocares.org (Dan Pollock)
+EasyList Italy
+EasyList
 MVPS HOSTS
-NoTrack Tracker Blocklist
+NextDNS Ads & Trackers Blocklist
+notracking
+oisd
+Peter Lowe
+someonewhocares.org (Dan Pollock)
+Steven Black
 
 Block Disguised Third-Party Trackers -> Enable
+Allow Affiliate & Tracking Links -> Enable
+
 
 - Parental Control
 Block Bypass Methods -> Disable
 
-- Allowlist
-amazon-adsystem.com (for amazon app)
 
 - Setting
 Logs -> Only Domains
@@ -136,4 +90,5 @@ Storage Location -> Switzerland
 Block Page -> Enable
 EDNS Client Subnet -> Disable
 Cache Boost -> Enable
+CNAME Flattening -> Enable
 Handshake -> Enable
