@@ -1,4 +1,4 @@
-- Security
+Security ->
 Threat Intelligence Feeds -> Enable
 Google Safe Browsing -> Enable
 Cryptojacking Protection -> Enable
@@ -11,58 +11,10 @@ Block Parked Domains -> Enable
 Block Child Sexual Abuse Material (CSAM) -> Enable
 
 
-- TLD
-accountant
-asia
-best
-bid
-biz
-buzz
-casa
-cf
-cricket
-date
-download
-email
-et
-fail
-fit
-ga
-gdn
-gq
-host
-icu
-life
-live
-loan
-london
-ltda
-men
-ml
-monster
-nf
-pw
-recipes
-rest
-review
-run
-su
-support
-tf
-tk
-top
-trade
-ug
-vip
-wang
-webcam
-work
-xyz
+TLD ->
 
 
-- Privacy
-
-- Blocklists:
+Blocklists ->
 AdGuard DNS filter
 Anudeep's Blacklist
 EasyList Italy
@@ -79,16 +31,16 @@ Block Disguised Third-Party Trackers -> Enable
 Allow Affiliate & Tracking Links -> Enable
 
 
-- Parental Control
+Parental Control ->
 Block Bypass Methods -> Disable
 
 
-- Setting
-Logs -> Only Domains
-Retention -> 1 Week
-Storage Location -> Switzerland
-Block Page -> Enable
-EDNS Client Subnet -> Disable
+Setting ->
+Logs -> it depends on your choice
+Retention -> it depends on your choice
+Storage Location -> EU
+Block Page -> Disable
+EDNS Client Subnet -> Enable
 Cache Boost -> Enable
 CNAME Flattening -> Enable
-Handshake -> Enable
+Handshake -> Disable
