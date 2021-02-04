@@ -17,8 +17,6 @@ TLD ->
 Blocklists ->
 AdGuard DNS filter
 Anudeep's Blacklist
-EasyList Italy
-EasyList
 MVPS HOSTS
 NextDNS Ads & Trackers Blocklist
 notracking
