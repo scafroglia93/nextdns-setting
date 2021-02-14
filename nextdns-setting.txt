@@ -16,8 +16,6 @@ TLD ->
 
 Blocklists ->
 AdGuard DNS filter
-MVPS HOSTS
-NextDNS Ads & Trackers Blocklist
 notracking
 oisd
 Peter Lowe
