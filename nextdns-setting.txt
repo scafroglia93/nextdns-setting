@@ -16,7 +16,6 @@ TLD ->
 
 Blocklists ->
 AdGuard DNS filter
-Anudeep's Blacklist
 MVPS HOSTS
 NextDNS Ads & Trackers Blocklist
 notracking
