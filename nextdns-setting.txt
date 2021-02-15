@@ -18,8 +18,6 @@ Blocklists ->
 AdGuard DNS filter
 notracking
 oisd
-Peter Lowe
-someonewhocares.org (Dan Pollock)
 Steven Black
 
 Block Disguised Third-Party Trackers -> Enable
