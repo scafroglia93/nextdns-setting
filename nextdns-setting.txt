@@ -11,7 +11,29 @@ Block Parked Domains -> Enable
 Block Child Sexual Abuse Material (CSAM) -> Enable
 
 
-TLD ->
+TLD -> (18/04/2021) -> Spamhaus
+asia
+bar
+bid
+cam
+casa
+cf
+cheap
+date
+email
+ga
+gq
+host
+icu
+ml
+su
+surf
+tk
+top
+wang
+webcam
+work
+xyz
 
 
 Blocklists ->
