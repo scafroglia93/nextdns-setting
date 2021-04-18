@@ -13,6 +13,7 @@ Block Child Sexual Abuse Material (CSAM) -> Enable
 
 TLD -> (18/04/2021) -> Spamhaus
 biz
+buzz
 cam
 casa
 cf
@@ -20,7 +21,6 @@ club
 co
 ga
 gq
-host
 icu
 info
 me
