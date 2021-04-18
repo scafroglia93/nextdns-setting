@@ -12,26 +12,22 @@ Block Child Sexual Abuse Material (CSAM) -> Enable
 
 
 TLD -> (18/04/2021) -> Spamhaus
-asia
-bar
-bid
+biz
 cam
 casa
 cf
-cheap
-date
-email
+club
+co
 ga
 gq
 host
 icu
+info
+me
 ml
 su
-surf
 tk
 top
-wang
-webcam
 work
 xyz
 
