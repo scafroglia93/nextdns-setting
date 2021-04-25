@@ -24,7 +24,6 @@ ga
 gq
 icu
 info
-me
 ml
 mobi
 online
