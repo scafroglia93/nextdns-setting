@@ -35,7 +35,6 @@ site
 su
 tk
 top
-tv
 work
 xyz
 
