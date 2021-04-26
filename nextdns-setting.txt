@@ -19,7 +19,6 @@ casa
 cc
 cf
 club
-co
 ga
 gq
 icu
