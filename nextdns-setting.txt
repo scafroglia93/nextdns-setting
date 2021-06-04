@@ -55,7 +55,7 @@ Setting ->
 Logs -> it depends on your choice
 Retention -> it depends on your choice
 Storage Location -> EU
-Block Page -> Disable
+Block Page -> Enable
 EDNS Client Subnet -> Disable
 Cache Boost -> Enable
 CNAME Flattening -> Enable
